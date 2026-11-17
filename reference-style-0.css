@@ -1,0 +1,20 @@
+/* ========================================
+ * Custom Global Styles
+ * You can add custom fonts, overrides, and 
+ * online customer service widget styles here.
+ * ======================================== */
+
+/* Example: Custom Font Import */
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap'); */
+
+/* Example: Apply custom font globally */
+/* body {
+  font-family: 'Noto Sans SC', sans-serif;
+}
+ */
+
+/* Example: Online customer service widget overrides */
+/* #chat-widget {
+  z-index: 9999;
+}
+ */

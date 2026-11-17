@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "总览": {
+      "title": "总览",
+      "visible": 1,
+      "overflow": false
+    },
+    "请求记录": {
+      "title": "请求记录",
+      "visible": 1,
+      "overflow": false
+    },
+    "接入应用": {
+      "title": "接入应用",
+      "visible": 1,
+      "overflow": false
+    },
+    "上游连接": {
+      "title": "上游连接",
+      "visible": 1,
+      "overflow": false
+    },
+    "模型与价格": {
+      "title": "模型与价格",
+      "visible": 1,
+      "overflow": false
+    },
+    "设置": {
+      "title": "设置",
+      "visible": 1,
+      "overflow": false
+    }
+  },
+  "dark": {
+    "background": "rgba(0, 0, 0, 0)",
+    "canvas": "rgb(8, 8, 8)",
+    "cards": 5,
+    "theme": "dark"
+  },
+  "light": {
+    "theme": "light",
+    "canvas": "rgb(250, 250, 250)"
+  },
+  "responsive": {
+    "900": "All six pages fit",
+    "768": "All six pages fit",
+    "390": "All six pages fit"
+  },
+  "ok": true
+}
